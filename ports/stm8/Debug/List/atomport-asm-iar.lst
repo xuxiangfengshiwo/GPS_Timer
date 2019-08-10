@@ -1,0 +1,33 @@
+###############################################################################
+#                                                                             #
+# IAR Assembler V1.41.1.50116 for STM8                  10/Aug/2019  12:49:09 #
+# Copyright 2010-2013 IAR Systems AB.                                         #
+#                                                                             #
+#    Source file  =  E:\工作\玩儿\stm8s\atomthreads-master\atomthreads-master #
+#                    \ports\stm8\atomport-asm-iar.s                           #
+#    Command line =  E:\工作\玩儿\stm8s\atomthreads-master\atomthreads-master #
+#                    \ports\stm8\atomport-asm-iar.s -M<> -r -ld               #
+#                    E:\工作\玩儿\stm8s\atomthreads-master\atomthreads-master #
+#                    \ports\stm8\Debug\List\ --diag_suppress Pa050            #
+#                    --code_model small --data_model medium -o                #
+#                    E:\工作\玩儿\stm8s\atomthreads-master\atomthreads-master #
+#                    \ports\stm8\Debug\Obj\                                   #
+#    List file    =  E:\工作\玩儿\stm8s\atomthreads-master\atomthreads-master #
+#                    \ports\stm8\Debug\List\atomport-asm-iar.lst              #
+#    Object file  =  E:\工作\玩儿\stm8s\atomthreads-master\atomthreads-master #
+#                    \ports\stm8\Debug\Obj\atomport-asm-iar.o                 #
+#                                                                             #
+#                                                                             #
+###############################################################################
+
+##############################################################################
+# Module ATOMPORTASM                                                         #
+##############################################################################
+
+ 
+ 88 bytes in section .near_func.text  , module ATOMPORTASM
+ 
+ 88 bytes of CODE memory  in module ATOMPORTASM
+
+Errors: none
+Warnings: none
